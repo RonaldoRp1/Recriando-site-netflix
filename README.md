@@ -2,7 +2,7 @@
 
 Criando front end do site da netflix.
 
-#Algumas anotações que aprendi durante esse processo#
+*Algumas anotações que aprendi durante esse processo*
 
 HTML= ele nao cuida da formatação ele é resposavel a estrutura do site qual conteúdo que está ali.
 
